@@ -6,6 +6,22 @@ body {
     padding: 0;
     margin: 0;
 }
+
+:where(.css-1n7nwfa).ant-tabs .ant-tabs-content {
+    position: relative;
+    width: 100%;
+    height: 800px !important;
+}
+div#rc-tabs-1-panel-0 {
+    height: 800px !important;
+}
+.ant-tabs.ant-tabs-left.ant-tabs-mobile.css-1n7nwfa {
+    height: 800px !important;
+}
+.listRap .listRap-content .listRap-pd .ant-tabs-content-holder {
+    overflow-y: scroll;
+    height: 800px !important;
+}
 .listRap .listRap-content .listRap-pd :where(.css-dev-only-do-not-override-1n7nwfa).ant-tabs {
     box-sizing: border-box;
     margin: 0;
